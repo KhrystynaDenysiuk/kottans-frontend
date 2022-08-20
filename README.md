@@ -4,3 +4,5 @@ kottans-frontend
   Week 1:
     1. Before Version Control: done;
     2. Version Control Systems: done;
+    3. Using Git: done;
+    
